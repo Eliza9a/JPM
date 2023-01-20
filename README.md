@@ -1,6 +1,6 @@
-# Eliza Airinei - AdventureLand
+# AdventureLand
 
-# https://eliza9a.github.io
+ https://eliza9a.github.io
 
 Here is the Java project which I was asked to do in the first year. Go on the link above to see more about it.
 
